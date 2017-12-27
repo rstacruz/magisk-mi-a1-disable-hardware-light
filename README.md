@@ -2,8 +2,6 @@
 
 > Disables hardware key lights and charging light in Xiaomi Mi A1 using Magisk
 
-- [Download](https://github.com/rstacruz/magisk-mi-a1-disable-hardware-light/archive/master.zip) (master)
-
 ## Links
 
 - [topjohnwu/magisk-module-template](https://github.com/topjohnwu/magisk-module-template) (commit [827be278](https://github.com/topjohnwu/magisk-module-template/commit/827be27811d304749912b81ee8427f30470a80ff))
