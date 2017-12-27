@@ -10,4 +10,4 @@ MODDIR=${0%/*}
 echo 0 > sys/devices/soc/leds-qpnp-10/leds/button-backlight/max_brightness
 
 # Disable charging light
-echo 0 > sys/class/leds/red/brightness
+echo 0 > sys/class/leds/red/max_brightness
