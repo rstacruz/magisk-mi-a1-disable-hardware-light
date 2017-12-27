@@ -1,7 +1,7 @@
 id=a1_light_disabler
 name=Xiaomi A1 - Disable Lights
-version=v1.0
-versionCode=1.0
+version=v1.1
+versionCode=1.1
 author=rstacruz
 description=Disables hardware key lights and charging light
 minMagisk=1500
